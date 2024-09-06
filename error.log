@@ -1,0 +1,6 @@
+2024/05/07 16:57:42 [info] 5377: 监听8080端口成功!
+2024/05/07 16:57:42 [notice] 5379: master process ./nginx 5379 【master进程】启动并开始运行......!
+2024/05/07 16:57:43 [notice] 5380: worker process 5380 【worker进程】启动并开始运行......!
+2024/05/07 16:57:43 [notice] 5381: worker process 5381 【worker进程】启动并开始运行......!
+2024/05/07 16:57:43 [notice] 5390: worker process 5390 【worker进程】启动并开始运行......!
+2024/05/07 16:57:43 [notice] 5383: worker process 5383 【worker进程】启动并开始运行......!

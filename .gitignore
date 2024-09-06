@@ -1,0 +1,5 @@
+.aider*
+/app/dep/
+/app/link_obj/
+/nginx
+/.cache

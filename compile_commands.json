@@ -1,0 +1,302 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_signal.o",
+      "ngx_signal.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/signal",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/signal/ngx_signal.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_signal.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_daemon.o",
+      "ngx_daemon.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/proc",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/proc/ngx_daemon.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_daemon.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_event.o",
+      "ngx_event.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/proc",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/proc/ngx_event.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_event.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_process_cycle.o",
+      "ngx_process_cycle.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/proc",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/proc/ngx_process_cycle.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_process_cycle.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket.o",
+      "ngx_c_socket.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/net",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/net/ngx_c_socket.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_accept.o",
+      "ngx_c_socket_accept.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/net",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/net/ngx_c_socket_accept.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_accept.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_conn.o",
+      "ngx_c_socket_conn.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/net",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/net/ngx_c_socket_conn.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_conn.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_inet.o",
+      "ngx_c_socket_inet.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/net",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/net/ngx_c_socket_inet.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_inet.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_request.o",
+      "ngx_c_socket_request.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/net",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/net/ngx_c_socket_request.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_request.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_time.o",
+      "ngx_c_socket_time.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/net",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/net/ngx_c_socket_time.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_socket_time.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_crc32.o",
+      "ngx_c_crc32.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/misc",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/misc/ngx_c_crc32.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_crc32.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_memory.o",
+      "ngx_c_memory.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/misc",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/misc/ngx_c_memory.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_memory.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_threadpool.o",
+      "ngx_c_threadpool.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/misc",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/misc/ngx_c_threadpool.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_threadpool.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_slogic.o",
+      "ngx_c_slogic.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/logic",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/logic/ngx_c_slogic.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_slogic.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/nginx.o",
+      "nginx.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/app",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/app/nginx.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/nginx.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_conf.o",
+      "ngx_c_conf.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/app",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/app/ngx_c_conf.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_c_conf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_log.o",
+      "ngx_log.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/app",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/app/ngx_log.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_log.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_printf.o",
+      "ngx_printf.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/app",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/app/ngx_printf.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_printf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_setproctitle.o",
+      "ngx_setproctitle.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/app",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/app/ngx_setproctitle.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_setproctitle.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-g",
+      "-I/home/icefjl/Learn_EpollServer-main/nginx/_include",
+      "-c",
+      "-o",
+      "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_string.o",
+      "ngx_string.cxx"
+    ],
+    "directory": "/home/icefjl/Learn_EpollServer-main/nginx/app",
+    "file": "/home/icefjl/Learn_EpollServer-main/nginx/app/ngx_string.cxx",
+    "output": "/home/icefjl/Learn_EpollServer-main/nginx/app/link_obj/ngx_string.o"
+  }
+]
